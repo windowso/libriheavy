@@ -1,0 +1,1 @@
+bolt task submit --tar . --max-retries 3 --interactive --config config.interactive.yaml
